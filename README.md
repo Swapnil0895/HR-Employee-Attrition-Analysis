@@ -55,7 +55,7 @@ Each KPI was first computed using SQL and then visualized in Power BI.
 - Filtered and segmented data (e.g., Male Research Scientists’ pay)  
 - Ensured all KPIs were validated before dashboard integration
 
-> All queries are included in `SQL_Queries_HR_Attrition.sql`
+> All queries are included in `Hr Analytics.sql`
 
 ---
 
@@ -72,11 +72,10 @@ Each KPI was first computed using SQL and then visualized in Power BI.
 
 - `HR_1.xlsx`  
 - `HR_2.xlsx`  
-- `HR_Analytics_Employee_Retention.pbit`  
-- `SQL_Queries_HR_Attrition.sql`  
+- `HR Analytics Employee Attrition Analysis Project.pbit`  
+- `Hr Analytics.sql`  
 - `README.md`  
-- `assets/dashboard-preview.png` *(optional)*
-
+- `HR Analytics.png` 
 ---
 
 ## 🧠 Learning Highlights
