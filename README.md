@@ -55,7 +55,7 @@ Interactive filters for gender, job role, department, and marital status allow t
 
 ## 📸 Dashboard Preview
 
-> (Attach image here showing KPI panel and sample bar/line visuals)
+> (https://github.com/Swapnil0895/HR-Employee-Attrition-Analysis/blob/main/HR%20Analytics.png)
 
 ---
 
