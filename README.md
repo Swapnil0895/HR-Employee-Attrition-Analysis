@@ -57,13 +57,7 @@ Interactive filters for gender, job role, department, and marital status allow t
 
 > (https://github.com/Swapnil0895/HR-Employee-Attrition-Analysis/blob/main/HR%20Analytics.png)
 
----
 
-## 📂 Files Included
 
-- `HR Analytics Employee Retention Project.pbit` – Power BI Template
-- `SQL_Queries_HR_Attrition.sql` – All MySQL queries used for analysis
-
----
 
 
