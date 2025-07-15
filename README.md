@@ -55,7 +55,8 @@ Interactive filters for gender, job role, department, and marital status allow t
 
 ## 📸 Dashboard Preview
 
-Show what the dashboard looks like. - Alt text Example: [Dashboard Preview](https://github.com/Swapnil0895/HR-Employee-Attrition-Analysis/blob/main/HR%20Analytics.png)
+![Dashboard Preview](https://github.com/Swapnil0895/HR-Employee-Attrition-Analysis/blob/main/HR%20Analytics.png)
+
 
 
 
