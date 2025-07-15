@@ -93,7 +93,10 @@ Inspired by real-world use cases and self-paced learning.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview]([assets/dashboard-preview.png](https://github.com/Swapnil0895/HR-Employee-Attrition-Analysis/blob/main/HR%20Analytics.png))
+![Dashboard Preview]([## 📸 Dashboard Preview
+
+![Dashboard Preview]([dashboard-preview.png](https://github.com/Swapnil0895/HR-Employee-Attrition-Analysis/blob/main/HR%20Analytics.png))
+
 
 ---
 
